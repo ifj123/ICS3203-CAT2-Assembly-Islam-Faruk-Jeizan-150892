@@ -64,4 +64,3 @@ Designing the simulation logic to mimic real-world behavior was non-trivial. Tra
 
 ---
 
-If you'd like additional clarifications or the complete implementation for the remaining tasks, let me know!
