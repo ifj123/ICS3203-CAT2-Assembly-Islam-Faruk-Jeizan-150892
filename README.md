@@ -7,7 +7,7 @@
 
 1. **Assemble the `.asm` file into an object file:**
    ```bash
-   nasm -f elf64 -o Q1.o Q1.asm
+   nasm -f elf64 -o task?.o task?.asm
    ```
 2. **Link the object file to create an executable:**
    ```bash
@@ -18,7 +18,7 @@
    ```bash
    ./task?
 
-   **replace ? with the task number**
+   replace ? with the task number
 
 ### **Documentation for Each Task**
 
