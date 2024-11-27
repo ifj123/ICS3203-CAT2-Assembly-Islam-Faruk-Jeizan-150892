@@ -2,6 +2,24 @@
 
 ---
 
+## **Commands for Running Task 1-4**
+
+
+1. **Assemble the `.asm` file into an object file:**
+   ```bash
+   nasm -f elf64 -o Q1.o Q1.asm
+   ```
+2. **Link the object file to create an executable:**
+   ```bash
+   ld -m elf_ task?.o -o task?
+   ```
+
+3. **Run The Program**
+   ```bash
+   ./task?
+
+   **replace ? with the task number**
+
 ### **Documentation for Each Task**
 
 #### **Task 1: Control Flow and Conditional Logic**
